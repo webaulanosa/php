@@ -78,6 +78,14 @@ $numDec = 10.99;
 
 */
 
+// EJEMPLO DE NOT
+
+$pagado = true;
+$noPagado = !$pagado;
+
+// var_dump($pagado);
+var_dump($noPagado);
+
 
 // CONDICIONALES MÚLTIPLES  ========================================
 
