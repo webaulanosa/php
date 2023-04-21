@@ -91,6 +91,26 @@ $nombres = ['Ana','Lucas','Juan'];
 // echo $otroCliente['email'] . '<br>';
 
 
+// ARRAYS MULTIDIMENSIONALES
+
+$clientes = [
+    $clienteUno = [
+        'nombre' => 'Pepe',
+        'email' => 'pepe@es.es'
+    ],
+
+    $clienteDos = [
+        'nombre' => 'Juan',
+        'email' => 'juan@es.es'
+    ],
+
+];
+
+// * Para acceder a los valores necesito un bucle
+
+
+
+
 // DIFERENCIAS ENTRE COMILLAS SIMPLES Y DOBLES
 
 // las comillas simples no son capaces de interpretar el valor de las variables
