@@ -1,7 +1,22 @@
 <?php
 
 
-// VARIABLES
+// VARIABLES  ( en php no se declara explícitamente el tipo de la variable, se infiere implícitamente)
+              //( Las variables en php son dinámicas puedeo reasignar valores a la misma variable)
+
+              // Declarar una variable
+             //   $num;
+
+              // Inicializar una variable
+             //   $num = 1;
+
+              
+
+              // Reasignación de valores para la variable
+              //   $numero = 1;
+             //   $numero = 2;
+
+            //   echo $numero;
 
 // TIPOS DE VARIABLES
 
